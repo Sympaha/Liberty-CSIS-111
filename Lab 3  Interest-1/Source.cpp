@@ -35,7 +35,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Jimmy Otiz -- Lab 3 Interest" << endl << endl;
+	cout << "First Name -- Lab 3 Interest" << endl << endl;
 	//Variables
 	double netBalance, payment, interestRatePerMonth, averageDailyBalance, interest;
 	float newInterest;

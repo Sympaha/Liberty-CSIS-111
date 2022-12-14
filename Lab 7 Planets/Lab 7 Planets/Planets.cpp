@@ -25,7 +25,7 @@ bool Planets(string, PlanetType&);
 int main()
 {
 	//In cout statement below substitute your name and lab number
-	cout << "Jimmy Ortiz -- Lab 7 Planets" << endl << endl;
+	cout << "First Name -- Lab 7 Planets" << endl << endl;
 
 	//Variable declarations
 	double weight, weightOnPlanet;

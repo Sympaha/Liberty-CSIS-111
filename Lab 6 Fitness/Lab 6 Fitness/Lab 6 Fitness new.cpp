@@ -36,7 +36,7 @@ void Display();
 int main()
 {
 	//In cout statement below substitute your name and lab number
-	cout << "Jimmy Ortiz -- Lab 6 Fitness" << endl << endl;
+	cout << "First Name -- Lab 6 Fitness" << endl << endl;
 
 	//Variable declarations
 	bool Senior{};

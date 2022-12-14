@@ -75,7 +75,7 @@ void printCheck(menuItemType menuList[]);
 int main()
 {
 	//cout statement below substitute your name and lab number
-	cout << "Jimmy Ortiz -- Lab 9" << endl << endl;
+	cout << "First Name -- Lab 9" << endl << endl;
 
 	//setting the precision to two decimal places
 	std::cout << std::setprecision(2) << std::fixed;

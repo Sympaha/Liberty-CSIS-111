@@ -56,7 +56,7 @@ using namespace std;
 int main()
 {
 	//In cout statement below substitute your name and lab number
-	cout << "Jimmy Ortiz -- Lab 5" << endl << endl;
+	cout << "First Name -- Lab 5" << endl << endl;
 
 	//Variable declarations
 	int totalUnits, maxUnits, occupiedUnits;

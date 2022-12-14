@@ -43,7 +43,7 @@ using namespace std;
 int main()
 {
 	//In cout statement below substitute your name and lab number
-	cout << "Jimmy Ortiz -- Lab 4 Hotel" << endl << endl;
+	cout << "First Name -- Lab 4 Hotel" << endl << endl;
 
 	//Variable declarations
 	double roomRate, taxRate, discountRate, salesTax, totalRoomCost;
